@@ -13,9 +13,9 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ 
-├─▣ 
-├─▣ 
+├─▣     Passionate about Python, Linux, and IT technologies. 
+├─▣     Always exploring new trends in cybersecurity, networking, and system administration.
+├─▣     Open to learning, experimenting, and contributing to the tech community.
 ├─▣ 
 │
 └───────────────────────────────▰▰▰
@@ -43,3 +43,5 @@
 
 
 
+for b in range (2,6,1)
+   print(b)
