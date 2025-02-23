@@ -31,7 +31,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈    <a href="https://github.com/pepuk24/Proje_1">Proje_1</a>
+├─◈    <a href="https://github.com/pepuk24/Proje_1">Console_applications</a>
 ├─◈ 
 ├─◈ 
 ├─◈ 
