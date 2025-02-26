@@ -42,7 +42,7 @@
 </pre>
 
 
-<div style="text-align: center;">
+<p align="center">
                                               <img src="https://raw.githubusercontent.com/taylanbildik/bash_script_dersleri/master/img/Readme/bash_shell.png" alt="Bash Görseli" width="500">
-</div>
+</p>
 
