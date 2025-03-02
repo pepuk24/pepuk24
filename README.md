@@ -1,8 +1,9 @@
+
 <pre>
 
                                 ___   _      ___   _      ___   _      ___   _      ___   _
                                [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-                                '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+                                '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|                                              
                                /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
                                      |____________|____________|____________|____________|
                                                            |            |            |
@@ -42,7 +43,16 @@
 </pre>
 
 
+
+
+
+</p>
+
+
 <p align="center">
                                               <img src="https://raw.githubusercontent.com/taylanbildik/bash_script_dersleri/master/img/Readme/bash_shell.png" alt="Bash Görseli" width="500">
 </p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;"/>
