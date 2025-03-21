@@ -1,0 +1,27 @@
+name: Generate Snake Game Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Her gün gece 12'de çalışır
+  workflow_dispatch:  # Manuel çalıştırmak için
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: pepuk24
+          outputs: dist/github-snake.svg
+
+      - name: Push Snake Game Output
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
