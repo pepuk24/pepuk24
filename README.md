@@ -50,3 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/pepuk24/pepuk24/blob/output/github-snake.svg" alt="Snake Game Contribution">
+</p>
+
