@@ -65,7 +65,7 @@
 </p>
 
 
-<h2 align="center">🐍 GitHub Snake Game</h2>
+
 
 <p align="center">
   <img src="https://github.com/pepuk24/pepuk24/blob/output/github-snake.svg" alt="Snake Game Contribution" />
