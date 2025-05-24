@@ -53,21 +53,12 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/taylanbildik/bash_script_dersleri/master/img/Readme/bash_shell.png" alt="Bash Görseli" width="500">
-</p>
-
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="padding: 10px;" />
+  <img src="https://skillicons.dev/icons?i=django" width="50" height="50" style="padding: 10px;" />
 </p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/pepuk24/pepuk24/blob/output/github-snake.svg" alt="Snake Game Contribution" />
-</p>
-
