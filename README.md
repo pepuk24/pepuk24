@@ -70,6 +70,7 @@
   <img src="https://skillicons.dev/icons?i=django" width="50" height="50" style="padding: 10px;" />
   <img src="https://skillicons.dev/icons?i=csharp" width="50" height="50" style="padding: 10px;" />
 
+
 </p>
 
 <p align="left">
