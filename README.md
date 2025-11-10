@@ -68,7 +68,8 @@
   <img src="https://skillicons.dev/icons?i=php" width="50" height="50" style="padding: 10px;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="padding: 10px;" />
   <img src="https://skillicons.dev/icons?i=django" width="50" height="50" style="padding: 10px;" />
- <img src="https://cdn.simpleicons.org/csharp/239120" width="50" height="50" style="padding: 10px;" />
+  <img src="assets/csharp.svg" width="50" height="50" style="padding: 10px;" />
+
 
 
 
