@@ -52,7 +52,7 @@
 ├─◈ 🔐 Basic Password Manager 
 │ 
 │
-├─◈ FisiltiWeb
+├─◈ 🌐  FisiltiWeb
 │
 └────────────────────────────────▰▰▰
 </pre>
