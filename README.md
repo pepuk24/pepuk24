@@ -15,7 +15,7 @@
                                                       /mmm/        /mmm/        /mmm/
 </pre>
 
-<div align="center"><b>این درگه ما درگه نومیدی نیست</b></div>
+
 
 
 
@@ -86,4 +86,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-premiere-pro-icon-download-in-svg-png-gif-file-formats--logo-pr-premier-products-pack-design-development-icons-3516522.png?f=webp&w=48">
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pepuk24/vektorel_python_98/main/Pictures/be%20name%20xuda.gif" width="1000" height="250">
+</p>
